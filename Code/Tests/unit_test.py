@@ -10,6 +10,7 @@ class Test_Model(unittest.TestCase):
   def test_deployment(self):
         self.assertTrue(checkdeployment())
 
+  def test_mysecondtest(self):
   
   
 #the following is not required if call by pytest instead of python
